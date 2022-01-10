@@ -1,0 +1,12 @@
+/node_modules
+/storage/app/google-calendar/*.json
+/public/hot
+/public/storage
+/storage/*.key
+/.idea
+/.vscode
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
